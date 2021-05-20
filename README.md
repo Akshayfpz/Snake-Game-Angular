@@ -4,6 +4,7 @@
 git clone https://github.com/Akshayfpz/Snake-Game-Angular.git
 
 cd Snake-Game-Angular
+
 git checkout master
 
 ## Install npm packages
