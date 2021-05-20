@@ -2,6 +2,7 @@
 
 ## Clone the repo
 git clone https://github.com/Akshayfpz/Snake-Game-Angular.git
+
 cd Snake-Game-Angular
 git checkout master
 
